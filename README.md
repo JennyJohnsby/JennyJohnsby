@@ -1,35 +1,41 @@
-Hi there, I'm Jenny! 👋
-I’m currently pursuing my education in Front-End Development and actively building my skills in HTML, CSS, and JavaScript. I love bringing creative ideas to life through coding and design, with a particular focus on creating visually captivating and responsive web experiences.
+Hi, I’m Jenny! 👋
+
+I’m a Front-End Developer based in Longyearbyen, Svalbard ❄️, where the Arctic landscapes fuel my creativity and drive. I specialize in building visually captivating, responsive, and user-friendly websites that combine functionality with design.
 
 🌟 About Me
-🌍 Based in Longyearbyen, Svalbard – inspired by the Arctic landscapes around me!
-📚 Currently deepening my expertise in front-end technologies.
-🧠 Passionate about learning something new every day.
-🎨 I love combining my creativity with coding – drawing from my lifelong love for the arts (books, paintings, and music) to bring unique elements into my projects.
+
+💻 Skilled in HTML, CSS, and JavaScript, with hands-on experience creating modern, responsive websites.
+
+⚡ Proficient with tools like Git, GitHub, and Figma, and confident working with React.js and SASS to build dynamic front-end applications.
+
+🎨 With a lifelong love for art, books, and music, I approach web development as a creative craft — transforming ideas into polished, engaging digital experiences.
+
 🔧 Technologies & Tools
+
 Languages: HTML, CSS, JavaScript
-Tools & Frameworks: Git, GitHub, Figma
-Currently Learning: React.js, SASS, and more!
+
+Frameworks & Tools: React.js, SASS, Git, GitHub, Figma
+
+Focus Areas: Responsive design, accessibility, performance optimization, and clean, maintainable code.
+
 💼 Projects
-Here are some projects I’ve been working on:
 
-Arctic Husky Svalbard
-A dynamic blog platform built for a fictional husky adventure company using HTML, CSS, and JavaScript.
+Arctic Husky Svalbard – A dynamic blog platform for a fictional husky adventure company, built with HTML, CSS, and JavaScript.
 
-Spitsbergen Science Museum
-A responsive website designed for a fictional community museum, focusing on accessibility and engaging children and families.
+Spitsbergen Science Museum – A responsive, accessible website designed for a fictional local museum, crafted to engage families and children.
 
-Rainy Days
-A modern webshop for rain gear, built with HTML, CSS, and JavaScript, featuring interactive product filtering and a responsive shopping cart.
+Rainy Days – A fully functional webshop for rain gear, featuring product filtering, a responsive shopping cart, and a seamless user experience.
 
-🚀 What’s Next?
-I’m continuously learning new tools and improving my front-end development skills.
-I’m excited to collaborate on new projects and connect with fellow developers!
-📫 Let’s Connect!
-If you'd like to chat about web development, tech, or just want to say hello, feel free to reach out! I’m always open to new opportunities and collaborations.
+🚀 What’s Next
 
-Email: jjohnsby@gmail.com
-Portfolio: https://portfolio-jenjoh.netlify.app/
+I’m passionate about delivering meaningful web experiences and continuously refining my craft. I’m excited to contribute to projects where design meets functionality, and to collaborate with teams that value creativity and innovation.
 
-Fun Fact: I code while surrounded by the breathtaking views of the Arctic!
+📫 Let’s Connect
 
+I’m always open to new opportunities, collaborations, and conversations:
+
+📧 Email: jjohnsby.dev@gmail.com
+
+🌐 Portfolio: portfolio-jenjoh.netlify.app
+
+✨ Fun fact: Most of my code is written with a view of Arctic fjords and snowy peaks — proof that creativity can thrive even in the coldest places!
